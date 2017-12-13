@@ -1,123 +1,14 @@
----
-layout: default
----
+This is the repository of the U.S. DOE AMASE project page.
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+## AMASE: Architecture and Management for Autonomic Science Ecosystems
 
-[Link to another page](another-page).
+Scientific computing systems are becoming significantly more complex, and have reached a critical limit in manageability using current human-in-the-loop techniques. The current state-of-the-art for managing HPC infrastructures does not leverage the remarkable advances in machine learning to more accurately predict, diagnose, and improve computational resources in response to user computation. The DOE science complex consists of thousands of interconnected systems that are geographically distributed. As distributed teams and complex workflows now span resources from telescopes and light sources to fast networks and smart IoT sensor systems, it is clear that a single, centralized, administrative team and software stack cannot coordinate and manage all of the resources. Instead, resources must begin to respond autonomically, managing and tuning their behavior in response to scientific workflows. This research proposal outlines a plan to explore the architecture, methods, and algorithms needed to support future scientific computing systems that self-tune and self-manage. We propose to make the science ecosystem smart by incorporating the functions of sensing, intelligence, and control. Our aim is threefold:
 
-There should be whitespace between paragraphs.
+1. Design a scalable architecture for smart science ecosystems.
+2. Embed intelligence in relevant sub-systems via light-weight machine learning. 
+3. Explore methods for distributed and autonomous management of the systems.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+We believe the outcome of this research to design and prototype a smart distributed science ecosystem has many benefits:
 
-# [](#header-1)Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## [](#header-2)Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### [](#header-3)Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### [](#header-4)Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### [](#header-5)Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### [](#header-6)Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+1. Scientists using DOE computing infrastructure will be able to run workflows on automatically selected resources that are dynamically configured and tuned for their application.
+2. Facility and network operators will have the ability to predict and diagnose problems before they cause downtime.
