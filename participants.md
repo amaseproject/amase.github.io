@@ -31,6 +31,13 @@ Professor Choudhary is a fellow of the IEEE (Institute of Electrical and Electro
 Prof. Choudhary is the founder, chairman and Chief Scientist of 4C, which is a big-data science and social media analytics company. 4C is formerly known as Voxsup inc., and Prof. Choudhary served as its CEO from 2011-2013.  Prof. Choudhary was a co-founder and VP of Technology of Accelchip Inc., in 2000, which was eventually acquired by Xilinx.
 
 ---
+[Qiao Kang, Northwestern University](http://users.eecs.northwestern.edu/~qkt561/)
+
+<img src="doc/person.png" alt="Drawing" style="width: 100px;"/>
+
+Qiao Kang is a PhD Candidate in Computer Engineering. He received his first class B.S. degree in Computer science and Statistics from University of St. Andrews. He has been co-advised by Dr. Alok Choudhary, Dr. Wei-keng Liao, and Dr. Ankit Agrawal as a PhD student in Northwestern University since 2015.
+
+---
 
 [Rajkumar Kettimuthu, Argonne National Laboratory](http://www.mcs.anl.gov/~kettimut/) 
 
