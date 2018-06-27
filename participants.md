@@ -20,6 +20,14 @@ Pete Beckman is a recognized global expert in high-end computing systems. During
 
 ## Investigators
 
+[Ankit Agrawal](http://users.eecs.northwestern.edu/~ankitag/)
+
+<img src="doc/Ankit_tf.jpg" alt="Drawing" style="width: 100px;"/>
+
+Ankit Agrawal is a Research Associate Professor in the Department of Electrical Engineering and Computer Science at Northwestern University. He got his PhD in Computer Science from Iowa State University in 2009, and B.Tech in Computer Science and Engineering from Indian Institute of Technology (IIT) Roorkee, India in 2006. His research on high performance big data mining aims at a coherent integration of high performance computing and data mining to develop customized solutions for big data problems with an emphasis on interdisciplinary impact. His research has contributed to large-scale data-guided discovery in various science/engineering disciplines, such as materials science, healthcare, bioinformatics, and social media, with several interdisciplinary collaborations with domain scientists in respective fields. He has co-authored 100+ peer-reviewed journal and conference publications, including those at top-tier computer science venues such as KDD, ICDM, CIKM, SDM, ICDE, Supercomputing, HiPC, and interdisciplinary ones like Nature Scientific Reports, APL Materials, npj Computational Materials, JAMIA, PRB, and TCBB. He has also developed and released several open-source software, been on program committees of major research conferences, and has served as a PI/Co-PI on funded research grants from NSF, DOE, AFOSR, NIST, DARPA, Toyota Motor Corporation, and Northwestern Data Science Initiative.
+
+---
+
 [Alok Choudhary, Northwestern University](http://users.eecs.northwestern.edu/~choudhar/)
 
 <img src="doc/AC-12.jpg" alt="Drawing" style="width: 100px;"/>
