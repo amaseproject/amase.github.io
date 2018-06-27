@@ -11,4 +11,4 @@ layout: default
 
 * __November 12, 2017__ We gave a talk entitled [Towards a Smart Data Transfer Node](https://scinet.supercomputing.org/workshop/sites/default/files/liu-smart_dtn.pdf)  at the the Innovating the Network for Data-Intensive Science workshop held in conjunction with SC'17.
 
-* __September, 2018__ The AMASE project was launched.
+* __September, 2017__ The AMASE project was launched.
