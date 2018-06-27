@@ -56,7 +56,7 @@ Zhengchun Liu is a Research Scientist at the Computation Institute of the Univer
 
 ---
 
-[Alex Sim, Lawrence Berkeley National Laboratory](https://crd.lbl.gov/departments/data-science-and-technology/sdm/staff/alex-sim/)
+[Alex Sim, Lawrence Berkeley National Laboratory](https://sdm.lbl.gov/~asim/)
 
 <img src="doc/asim.jpg" alt="Drawing" style="width: 100px;"/>
 
