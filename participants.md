@@ -25,9 +25,7 @@ Pete Beckman is a recognized global expert in high-end computing systems. During
 <img src="doc/AC-12.jpg" alt="Drawing" style="width: 100px;"/>
 
 Alok Choudhary is Henry and Isabel Dever Professor of Electrical Engineering and Computer Science and a Professor of at Kellogg School of Management at Northwestern University. He is the founding director of the Center for Ultra-scale Computing and Information Security (CUCIS), which involves several schools, National Labs and universities.
-
 Professor Choudhary is a fellow of the IEEE (Institute of Electrical and Electronics Engineers), fellow of the ACM (Association of Computing Machinery) and a fellow of the AAAS (American Academy of Advancement of Science).
-
 Prof. Choudhary is the founder, chairman and Chief Scientist of 4C, which is a big-data science and social media analytics company. 4C is formerly known as Voxsup inc., and Prof. Choudhary served as its CEO from 2011-2013.  Prof. Choudhary was a co-founder and VP of Technology of Accelchip Inc., in 2000, which was eventually acquired by Xilinx.
 
 ---
