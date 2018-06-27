@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-[Home](index.html) | [Papers](papers.html) | [Presentations](presentations.html) | [Participants](participants.html) | [News](news.html)
+[Home](index.html) | [Papers](papers.html) | [Participants](participants.html) | [Resource](resource.html) | [News](news.html)
 
 # About
 

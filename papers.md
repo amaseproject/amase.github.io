@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-[Home](index.html) | [Papers](papers.html) | [Presentations](presentations.html) | [Participants](participants.html) | [News](news.html)
+[Home](index.html) | [Papers](papers.html) | [Participants](participants.html) | [Resource](resource.html) | [News](news.html)
 
 - Rajkumar Kettimuthu, Zhengchun Liu, Ian Foster, Peter H. Beckman, Alex Sim, John Wu, Wei-keng Liao, Qiao Kang, Ankit Agrawal, and Alok Choudhary.  
 [Toward Autonomic Science Infrastructure: Architecture, Limitations, and Open Issues](https://doi.org/10.1145/3217197.3217205) [[Preprint](http://www.mcs.anl.gov/~zcliu/file/ai-science18.pdf)]  

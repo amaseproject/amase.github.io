@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-[Home](index.html) | [Papers](papers.html) | [Presentations](presentations.html) | [Participants](participants.html) | [News](news.html)
+[Home](index.html) | [Papers](papers.html) | [Participants](participants.html) | [Resource](resource.html) | [News](news.html)
 
 * __June 18, 2018__ Paper on [Towards a Smart Data Transfer Node](https://doi.org/10.1016/j.future.2018.06.033) was accepted to publish in the [_Future Generation Computer Systems_](https://www.journals.elsevier.com/future-generation-computer-systems/).
 
