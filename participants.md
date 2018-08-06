@@ -62,7 +62,7 @@ Wei-keng Liao is a Research Professor at the Department of Electrical Engineerin
 
 ---
 
-[Zhengchun Liu](https://lzhengchun.github.io/), [Argonne National Laboratory](http://www.mcs.anl.gov/~zcliu/) 
+[Zhengchun Liu](https://lzhengchun.github.io/), [The University of Chicago](https://www.uchicago.edu) and [Argonne National Laboratory](http://www.mcs.anl.gov/~zcliu/) 
 
 <img src="doc/zhengchun_liu.png" alt="Drawing" style="width: 100px;"/>
 
