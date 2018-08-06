@@ -3,12 +3,9 @@ layout: default
 ---
 [Home](index.html) | [Papers](papers.html) | [Participants](participants.html) | [Resource](resource.html) | [News](news.html)
 
-- Rajkumar Kettimuthu, Zhengchun Liu, Ian Foster, Peter H. Beckman, Alex Sim, John Wu, Wei-keng Liao, Qiao Kang, Ankit Agrawal, and Alok Choudhary.  
-[Toward Autonomic Science Infrastructure: Architecture, Limitations, and Open Issues](https://doi.org/10.1145/3217197.3217205) [[Preprint](http://www.mcs.anl.gov/~zcliu/file/ai-science18.pdf)]  
-*The 1st AI-Science workshop in conjunction with HPDC'18* (**AI-Science'18**).
+- Rajkumar Kettimuthu, Zhengchun Liu, Ian Foster, Peter H. Beckman, Alex Sim, John Wu, Wei-keng Liao, Qiao Kang, Ankit Agrawal, and Alok Choudhary. [Toward Autonomic Science Infrastructure: Architecture, Limitations, and Open Issues](https://doi.org/10.1145/3217197.3217205) [[Preprint](http://www.mcs.anl.gov/~zcliu/file/ai-science18.pdf)] *The 1st AI-Science workshop in conjunction with HPDC'18* (**AI-Science'18**).
 
-- Zhengchun Liu, Rajkumar Kettimuthu, Ian Foster, Peter H. Beckman.  
-[Towards a Smart Data Transfer Node](https://doi.org/10.1016/j.future.2018.06.033). [[Preprint](http://www.mcs.anl.gov/~zcliu/file/fgcs18-smart-dtn.pdf)] *Future Generation Computer Systems* 2018.
+- Zhengchun Liu, Rajkumar Kettimuthu, Ian Foster, Peter H. Beckman. [Towards a Smart Data Transfer Node](https://doi.org/10.1016/j.future.2018.06.033). [[Preprint](http://www.mcs.anl.gov/~zcliu/file/fgcs18-smart-dtn.pdf)] *Future Generation Computer Systems* 2018.
 
 - J. Kim, A. Sim, B. Tierney, S. Suh, I. Kim, [Multivariate Network Traffic Analysis using Clustered Patterns](https://doi.org/10.1007/s00607-018-0619-4), Journal of Computing, Springer, 2018. In-press.
 
